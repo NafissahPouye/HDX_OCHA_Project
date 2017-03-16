@@ -1,0 +1,2032 @@
+[
+  {
+    "country": "Burkina Faso",
+    "adm1": "Cascades",
+    "rowcacode1": "BFA047",
+    "adm2": "Comoe",
+    "rowcacode2": "BFA047001",
+    "phase1": 585120,
+    "phase2": 11941,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Cascades",
+    "rowcacode1": "BFA047",
+    "adm2": "Leraba",
+    "rowcacode2": "BFA047002",
+    "phase1": 163861,
+    "phase2": 1655,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre",
+    "rowcacode1": "BFA013",
+    "adm2": "Kadiogo",
+    "rowcacode2": "BFA013",
+    "phase1": 2571046,
+    "phase2": 52470,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Est",
+    "rowcacode1": "BFA048",
+    "adm2": "Boulgou",
+    "rowcacode2": "BFA048001",
+    "phase1": 683670,
+    "phase2": 35983,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Est",
+    "rowcacode1": "BFA048",
+    "adm2": "Kouritenga",
+    "rowcacode2": "BFA048003",
+    "phase1": 389855,
+    "phase2": 48184,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Est",
+    "rowcacode1": "BFA048",
+    "adm2": "Koulpelgo",
+    "rowcacode2": "BFA048002",
+    "phase1": 315058,
+    "phase2": 35006,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Nord",
+    "rowcacode1": "BFA049",
+    "adm2": "Bam",
+    "rowcacode2": "BFA049001",
+    "phase1": 272671,
+    "phase2": 83619,
+    "phase35": 7271
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Nord",
+    "rowcacode1": "BFA049",
+    "adm2": "Namentenga",
+    "rowcacode2": "BFA049002",
+    "phase1": 338863,
+    "phase2": 82543,
+    "phase35": 13033
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Nord",
+    "rowcacode1": "BFA049",
+    "adm2": "Sanmatenga",
+    "rowcacode2": "BFA049003",
+    "phase1": 611532,
+    "phase2": 157408,
+    "phase35": 18102
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Boulkiemde",
+    "rowcacode2": "BFA050001",
+    "phase1": 528455,
+    "phase2": 83780,
+    "phase35": 32223
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Sanguie",
+    "rowcacode2": "BFA050002",
+    "phase1": 309746,
+    "phase2": 45329,
+    "phase35": 22664
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Sissili",
+    "rowcacode2": "BFA050003",
+    "phase1": 257345,
+    "phase2": 22378,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Ziro",
+    "rowcacode2": "BFA050004",
+    "phase1": 217329,
+    "phase2": 26861,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Bougouriba",
+    "rowcacode2": "BFA057001",
+    "phase1": 114785,
+    "phase2": 18906,
+    "phase35": 1350
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Ioba",
+    "rowcacode2": "BFA057002",
+    "phase1": 208162,
+    "phase2": 34285,
+    "phase35": 2449
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Noumbiel",
+    "rowcacode2": "BFA057003",
+    "phase1": 71591,
+    "phase2": 20724,
+    "phase35": 1884
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Poni",
+    "rowcacode2": "BFA057004",
+    "phase1": 313097,
+    "phase2": 27226,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Ouest",
+    "rowcacode1": "BFA050",
+    "adm2": "Houet",
+    "rowcacode2": "BFA053001",
+    "phase1": 1269490,
+    "phase2": 39263,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Sud",
+    "rowcacode1": "BFA051",
+    "adm2": "Bazega",
+    "rowcacode2": "BFA051001",
+    "phase1": 251063,
+    "phase2": 35444,
+    "phase35": 8861
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Sud",
+    "rowcacode1": "BFA051",
+    "adm2": "Nahouri",
+    "rowcacode2": "BFA051002",
+    "phase1": 182980,
+    "phase2": 22873,
+    "phase35": 2079
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Centre-Sud",
+    "rowcacode1": "BFA051",
+    "adm2": "Zoundweogo",
+    "rowcacode2": "BFA051003",
+    "phase1": 267962,
+    "phase2": 41470,
+    "phase35": 9570
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Est",
+    "rowcacode1": "BFA052",
+    "adm2": "Gnagna",
+    "rowcacode2": "BFA052001",
+    "phase1": 407743,
+    "phase2": 119605,
+    "phase35": 16310
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Est",
+    "rowcacode1": "BFA052",
+    "adm2": "Gourma",
+    "rowcacode2": "BFA052002",
+    "phase1": 327412,
+    "phase2": 78745,
+    "phase35": 8289
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Est",
+    "rowcacode1": "BFA052",
+    "adm2": "Tapoa",
+    "rowcacode2": "BFA052005",
+    "phase1": 420707,
+    "phase2": 47270,
+    "phase35": 4727
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Est",
+    "rowcacode1": "BFA052",
+    "adm2": "Komandjoari",
+    "rowcacode2": "BFA052003",
+    "phase1": 89535,
+    "phase2": 22667,
+    "phase35": 1133
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Est",
+    "rowcacode1": "BFA052",
+    "adm2": "Kompienga",
+    "rowcacode2": "BFA052004",
+    "phase1": 109930,
+    "phase2": 5786,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Hauts-Bassins",
+    "rowcacode1": "BFA052",
+    "adm2": "Houet",
+    "rowcacode2": "BFA053001",
+    "phase1": 1269490,
+    "phase2": 39263,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Hauts-Bassins",
+    "rowcacode1": "BFA053",
+    "adm2": "Kenedougou",
+    "rowcacode2": "BFA053002",
+    "phase1": 381489,
+    "phase2": 11799,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Hauts-Bassins",
+    "rowcacode1": "BFA053",
+    "adm2": "Tuy",
+    "rowcacode2": "BFA053003",
+    "phase1": 300409,
+    "phase2": 12517,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Hauts-Bassins",
+    "rowcacode1": "BFA053",
+    "adm2": "Comoe",
+    "rowcacode2": "BFA047001",
+    "phase1": 585120,
+    "phase2": 11941,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Kossi",
+    "rowcacode2": "BFA046003",
+    "phase1": 317579,
+    "phase2": 35683,
+    "phase35": 3568
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Mouhoun",
+    "rowcacode2": "BFA046004",
+    "phase1": 353087,
+    "phase2": 31041,
+    "phase35": 3880
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Sourou",
+    "rowcacode2": "BFA046006",
+    "phase1": 262301,
+    "phase2": 16743,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Bale",
+    "rowcacode2": "BFA046001",
+    "phase1": 259489,
+    "phase2": 16741,
+    "phase35": 2790
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Banwa",
+    "rowcacode2": "BFA046002",
+    "phase1": 325624,
+    "phase2": 21008,
+    "phase35": 3501
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Mouhoun",
+    "rowcacode1": "BFA046",
+    "adm2": "Nayala",
+    "rowcacode2": "BFA046005",
+    "phase1": 183668,
+    "phase2": 22958,
+    "phase35": 2087
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Plateau Central",
+    "rowcacode1": "BFA055",
+    "adm2": "Ganzourgou",
+    "rowcacode2": "BFA055001",
+    "phase1": 396714,
+    "phase2": 17392,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Plateau Central",
+    "rowcacode1": "BFA055",
+    "adm2": "Oubritenga",
+    "rowcacode2": "BFA055003",
+    "phase1": 267675,
+    "phase2": 38589,
+    "phase35": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Plateau Central",
+    "rowcacode1": "BFA055",
+    "adm2": "Kourweogo",
+    "rowcacode2": "BFA055002",
+    "phase1": 140980,
+    "phase2": 31484,
+    "phase35": 2449
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Sahel",
+    "rowcacode1": "BFA056",
+    "adm2": "Oudalan",
+    "rowcacode2": "BFA056001",
+    "phase1": 150592,
+    "phase2": 61850,
+    "phase35": 56472
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Sahel",
+    "rowcacode1": "BFA056",
+    "adm2": "Seno",
+    "rowcacode2": "BFA056002",
+    "phase1": 291624,
+    "phase2": 45676,
+    "phase35": 14054
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Sahel",
+    "rowcacode1": "BFA056",
+    "adm2": "Soum",
+    "rowcacode2": "BFA056003",
+    "phase1": 398607,
+    "phase2": 51584,
+    "phase35": 18758
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "Sahel",
+    "rowcacode1": "BFA056",
+    "adm2": "Yagha",
+    "rowcacode2": "BFA056004",
+    "phase1": 183943,
+    "phase2": 28132,
+    "phase35": 4328
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune I",
+    "rowcacode2": "",
+    "phase1": 388870,
+    "phase2": 25361,
+    "phase35": 16907
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune II",
+    "rowcacode2": "",
+    "phase1": 168958,
+    "phase2": 24137,
+    "phase35": 10057
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune III",
+    "rowcacode2": "",
+    "phase1": 147783,
+    "phase2": 11368,
+    "phase35": 6496
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune IV",
+    "rowcacode2": "",
+    "phase1": 353616,
+    "phase2": 23062,
+    "phase35": 15375
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune V",
+    "rowcacode2": "",
+    "phase1": 469525,
+    "phase2": 36519,
+    "phase35": 20868
+  },
+  {
+    "country": "Mali",
+    "adm1": "Bamako",
+    "rowcacode1": "MLI009",
+    "adm2": "Commune VI",
+    "rowcacode2": "",
+    "phase1": 497949,
+    "phase2": 71136,
+    "phase35": 29640
+  },
+  {
+    "country": "Mali",
+    "adm1": "Gao",
+    "rowcacode1": "MLI007",
+    "adm2": "Gao",
+    "rowcacode2": "MLI007001",
+    "phase1": 251128,
+    "phase2": 36308,
+    "phase35": 21179
+  },
+  {
+    "country": "Mali",
+    "adm1": "Gao",
+    "rowcacode1": "MLI007",
+    "adm2": "Ansongo",
+    "rowcacode2": "MLI007002",
+    "phase1": 135006,
+    "phase2": 23334,
+    "phase35": 15001
+  },
+  {
+    "country": "Mali",
+    "adm1": "Gao",
+    "rowcacode1": "MLI007",
+    "adm2": "Bourem",
+    "rowcacode2": "MLI007003",
+    "phase1": 119052,
+    "phase2": 16168,
+    "phase35": 14698
+  },
+  {
+    "country": "Mali",
+    "adm1": "Gao",
+    "rowcacode1": "MLI007",
+    "adm2": "Menaka",
+    "rowcacode2": "MLI007004",
+    "phase1": 46086,
+    "phase2": 13757,
+    "phase35": 6191
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Kayes",
+    "rowcacode2": "MLI001001",
+    "phase1": 596063,
+    "phase2": 51832,
+    "phase35": 6479
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Bafoulabe",
+    "rowcacode2": "MLI001002",
+    "phase1": 271387,
+    "phase2": 23599,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Diema",
+    "rowcacode2": "MLI001003",
+    "phase1": 248653,
+    "phase2": 18716,
+    "phase35": 2674
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Kenieba",
+    "rowcacode2": "MLI001004",
+    "phase1": 233855,
+    "phase2": 14927,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Kita",
+    "rowcacode2": "MLI001005",
+    "phase1": 491476,
+    "phase2": 54608,
+    "phase35": 5461
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Nioro",
+    "rowcacode2": "MLI001006",
+    "phase1": 254343,
+    "phase2": 31793,
+    "phase35": 2890
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kayes",
+    "rowcacode1": "MLI001",
+    "adm2": "Yelimane",
+    "rowcacode2": "MLI001007",
+    "phase1": 198344,
+    "phase2": 24514,
+    "phase35": 2229
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kidal",
+    "rowcacode1": "MLI001",
+    "adm2": "Kidal",
+    "rowcacode2": "MLI008001",
+    "phase1": 31441,
+    "phase2": 7223,
+    "phase35": 2974
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kidal",
+    "rowcacode1": "MLI008",
+    "adm2": "Abeibara",
+    "rowcacode2": "MLI008002",
+    "phase1": 9150,
+    "phase2": 2484,
+    "phase35": 915
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kidal",
+    "rowcacode1": "MLI008",
+    "adm2": "Tessalit",
+    "rowcacode2": "MLI008003",
+    "phase1": 15800,
+    "phase2": 2836,
+    "phase35": 1013
+  },
+  {
+    "country": "Mali",
+    "adm1": "Kidal",
+    "rowcacode1": "MLI008",
+    "adm2": "Tin-Essako",
+    "rowcacode2": "MLI008004",
+    "phase1": 7639,
+    "phase2": 1630,
+    "phase35": 611
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Koulikoro",
+    "rowcacode2": "MLI002001",
+    "phase1": 236655,
+    "phase2": 29249,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Banamba",
+    "rowcacode2": "MLI002002",
+    "phase1": 221859,
+    "phase2": 19292,
+    "phase35": 2412
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Dioila",
+    "rowcacode2": "MLI002003",
+    "phase1": 567917,
+    "phase2": 49384,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Kangaba",
+    "rowcacode2": "MLI002004",
+    "phase1": 117883,
+    "phase2": 8873,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Kati",
+    "rowcacode2": "MLI002005",
+    "phase1": 1087142,
+    "phase2": 120794,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Kolokani",
+    "rowcacode2": "MLI002006",
+    "phase1": 258315,
+    "phase2": 32289,
+    "phase35": 2935
+  },
+  {
+    "country": "Mali",
+    "adm1": "Koulikoro",
+    "rowcacode1": "MLI002",
+    "adm2": "Nara",
+    "rowcacode2": "MLI002007",
+    "phase1": 262655,
+    "phase2": 39704,
+    "phase35": 9162
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Mopti",
+    "rowcacode2": "MLI005001",
+    "phase1": 433188,
+    "phase2": 27948,
+    "phase35": 4658
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Bandiagara",
+    "rowcacode2": "MLI005002",
+    "phase1": 356204,
+    "phase2": 35620,
+    "phase35": 7916
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Bankass",
+    "rowcacode2": "MLI005003",
+    "phase1": 294199,
+    "phase2": 33432,
+    "phase35": 6686
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Djenne",
+    "rowcacode2": "MLI005004",
+    "phase1": 244730,
+    "phase2": 15789,
+    "phase35": 5263
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Douentza",
+    "rowcacode2": "MLI005005",
+    "phase1": 255347,
+    "phase2": 40482,
+    "phase35": 21798
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Koro",
+    "rowcacode2": "MLI005006",
+    "phase1": 407457,
+    "phase2": 41204,
+    "phase35": 9156
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Tenenkou",
+    "rowcacode2": "MLI005007",
+    "phase1": 174857,
+    "phase2": 24686,
+    "phase35": 10286
+  },
+  {
+    "country": "Mali",
+    "adm1": "Mopti",
+    "rowcacode1": "MLI005",
+    "adm2": "Youwarou",
+    "rowcacode2": "MLI005008",
+    "phase1": 119213,
+    "phase2": 15073,
+    "phase35": 4111
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Segou",
+    "rowcacode2": "MLI004001",
+    "phase1": 755765,
+    "phase2": 123031,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Baroueli",
+    "rowcacode2": "MLI004002",
+    "phase1": 230494,
+    "phase2": 25610,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Bla",
+    "rowcacode2": "MLI004003",
+    "phase1": 336636,
+    "phase2": 21487,
+    "phase35": 0
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Macina",
+    "rowcacode2": "MLI004004",
+    "phase1": 268227,
+    "phase2": 26823,
+    "phase35": 5961
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Niono",
+    "rowcacode2": "MLI004005",
+    "phase1": 437593,
+    "phase2": 23031,
+    "phase35": 4606
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "San",
+    "rowcacode2": "MLI004006",
+    "phase1": 366412,
+    "phase2": 50540,
+    "phase35": 8423
+  },
+  {
+    "country": "Mali",
+    "adm1": "Segou",
+    "rowcacode1": "MLI004",
+    "adm2": "Tominian",
+    "rowcacode2": "MLI004007",
+    "phase1": 228911,
+    "phase2": 41874,
+    "phase35": 11166
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "MLI003",
+    "adm2": "Sikasso",
+    "rowcacode2": "MLI003001",
+    "phase1": 825843,
+    "phase2": 102071,
+    "phase35": 9279
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "Bougouni",
+    "adm2": "Bougouni",
+    "rowcacode2": "MLI003002",
+    "phase1": 497864,
+    "phase2": 81048,
+    "phase35": 5789
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "Kadiolo",
+    "adm2": "Kadiolo",
+    "rowcacode2": "MLI003003",
+    "phase1": 261209,
+    "phase2": 46096,
+    "phase35": 3073
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "Kolondieba",
+    "adm2": "Kolondieba",
+    "rowcacode2": "MLI003004",
+    "phase1": 216193,
+    "phase2": 38152,
+    "phase35": 2543
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "Koutiala",
+    "adm2": "Koutiala",
+    "rowcacode2": "MLI003005",
+    "phase1": 659537,
+    "phase2": 73282,
+    "phase35": 7328
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "MLI003",
+    "adm2": "Yanfolila",
+    "rowcacode2": "MLI003006",
+    "phase1": 236328,
+    "phase2": 32226,
+    "phase35": 2686
+  },
+  {
+    "country": "Mali",
+    "adm1": "Siakasso",
+    "rowcacode1": "MLI003",
+    "adm2": "Yorosso",
+    "rowcacode2": "MLI003007",
+    "phase1": 237764,
+    "phase2": 29387,
+    "phase35": 2672
+  },
+  {
+    "country": "Mali",
+    "adm1": "Tombouctou",
+    "rowcacode1": "MLI006",
+    "adm2": "Tombouctou",
+    "rowcacode2": "MLI006001",
+    "phase1": 136651,
+    "phase2": 16077,
+    "phase35": 16077
+  },
+  {
+    "country": "Mali",
+    "adm1": "Tombouctou",
+    "rowcacode1": "MLI006",
+    "adm2": "Dire",
+    "rowcacode2": "MLI006002",
+    "phase1": 124613,
+    "phase2": 11077,
+    "phase35": 5538
+  },
+  {
+    "country": "Mali",
+    "adm1": "Tombouctou",
+    "rowcacode1": "MLI006",
+    "adm2": "Goundam",
+    "rowcacode2": "MLI006003",
+    "phase1": 154766,
+    "phase2": 22928,
+    "phase35": 28660
+  },
+  {
+    "country": "Mali",
+    "adm1": "Tombouctou",
+    "rowcacode1": "MLI006",
+    "adm2": "G.Rharous",
+    "rowcacode2": "MLI006004",
+    "phase1": 114957,
+    "phase2": 16823,
+    "phase35": 16823
+  },
+  {
+    "country": "Mali",
+    "adm1": "Tombouctou",
+    "rowcacode1": "MLI006",
+    "adm2": "Niafunke",
+    "rowcacode2": "MLI006005",
+    "phase1": 183857,
+    "phase2": 24367,
+    "phase35": 26582
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Nguigmi",
+    "rowcacode2": "NER002006",
+    "phase1": 25367,
+    "phase2": 32131,
+    "phase35": 27058
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Ngourti",
+    "rowcacode2": "NER002005",
+    "phase1": 50110,
+    "phase2": 8948,
+    "phase35": 597
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Goudoumaria",
+    "rowcacode2": "NER002003",
+    "phase1": 46353,
+    "phase2": 52147,
+    "phase35": 17382
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Maine Soroa",
+    "rowcacode2": "NER002004",
+    "phase1": 75864,
+    "phase2": 53104,
+    "phase35": 22759
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Diffa",
+    "rowcacode2": "NER002002",
+    "phase1": 29757,
+    "phase2": 41659,
+    "phase35": 47610
+  },
+  {
+    "country": "Niger",
+    "adm1": "Diffa",
+    "rowcacode1": "NER002",
+    "adm2": "Bosso",
+    "rowcacode2": "NER002001",
+    "phase1": 17686,
+    "phase2": 26528,
+    "phase35": 44214
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Boboye",
+    "rowcacode2": "NER003001",
+    "phase1": 212495,
+    "phase2": 72772,
+    "phase35": 5822
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Dioundou",
+    "rowcacode2": "NER003002",
+    "phase1": 93475,
+    "phase2": 30316,
+    "phase35": 2526
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Dogon doutchi",
+    "rowcacode2": "NER003003",
+    "phase1": 300462,
+    "phase2": 115893,
+    "phase35": 12877
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Dosso",
+    "rowcacode2": "NER003004",
+    "phase1": 403009,
+    "phase2": 147581,
+    "phase35": 17029
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Falmeye",
+    "rowcacode2": "NER003005",
+    "phase1": 59504,
+    "phase2": 41653,
+    "phase35": 17851
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Gaya",
+    "rowcacode2": "NER003006",
+    "phase1": 229145,
+    "phase2": 69347,
+    "phase35": 3015
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Loga",
+    "rowcacode2": "NER003007",
+    "phase1": 91032,
+    "phase2": 64734,
+    "phase35": 46527
+  },
+  {
+    "country": "Niger",
+    "adm1": "Dosso",
+    "rowcacode1": "NER003",
+    "adm2": "Tibiri",
+    "rowcacode2": "NER003008",
+    "phase1": 227148,
+    "phase2": 74679,
+    "phase35": 9335
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Dungass",
+    "rowcacode2": "NER007002",
+    "phase1": 285453,
+    "phase2": 118259,
+    "phase35": 4078
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Goure",
+    "rowcacode2": "NER007003",
+    "phase1": 290884,
+    "phase2": 83110,
+    "phase35": 3778
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Kantche",
+    "rowcacode2": "",
+    "phase1": 391008,
+    "phase2": 69001,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Magaria",
+    "rowcacode2": "NER007004",
+    "phase1": 519309,
+    "phase2": 139814,
+    "phase35": 6658
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Mirriah",
+    "rowcacode2": "NER007006",
+    "phase1": 438625,
+    "phase2": 146208,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Takaya",
+    "rowcacode2": "NER007001",
+    "phase1": 216777,
+    "phase2": 58363,
+    "phase35": 2779
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Takeita",
+    "rowcacode2": "NER007007",
+    "phase1": 270208,
+    "phase2": 14221,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Tanout",
+    "rowcacode2": "NER007008",
+    "phase1": 390691,
+    "phase2": 103854,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Tarka",
+    "rowcacode2": "NER007009",
+    "phase1": 76694,
+    "phase2": 33345,
+    "phase35": 1112
+  },
+  {
+    "country": "Niger",
+    "adm1": "Zinder",
+    "rowcacode1": "NER007",
+    "adm2": "Tesker",
+    "rowcacode2": "NER007010",
+    "phase1": 38511,
+    "phase2": 4279,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Aderbissinat",
+    "rowcacode2": "NER001001",
+    "phase1": 23607,
+    "phase2": 12211,
+    "phase35": 4884
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Arlit",
+    "rowcacode2": "NER001002",
+    "phase1": 94403,
+    "phase2": 24206,
+    "phase35": 2421
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Bilma",
+    "rowcacode2": "NER001003",
+    "phase1": 14468,
+    "phase2": 5167,
+    "phase35": 1033
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Ingall",
+    "rowcacode2": "NER001005",
+    "phase1": 46055,
+    "phase2": 10168,
+    "phase35": 3589
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Iferouane",
+    "rowcacode2": "NER001004",
+    "phase1": 31684,
+    "phase2": 5658,
+    "phase35": 377
+  },
+  {
+    "country": "Niger",
+    "adm1": "Agadez",
+    "rowcacode1": "NER001",
+    "adm2": "Tchirozerine",
+    "rowcacode2": "NER001006",
+    "phase1": 128247,
+    "phase2": 17488,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Aguie",
+    "rowcacode2": "NER004001",
+    "phase1": 229620,
+    "phase2": 34018,
+    "phase35": 19844
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Bermo",
+    "rowcacode2": "NER004002",
+    "phase1": 47590,
+    "phase2": 10843,
+    "phase35": 1807
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Dakoro",
+    "rowcacode2": "NER004003",
+    "phase1": 530336,
+    "phase2": 138033,
+    "phase35": 58119
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Gazaoua",
+    "rowcacode2": "NER004004",
+    "phase1": 146149,
+    "phase2": 27750,
+    "phase35": 11100
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Guidan Roumdji",
+    "rowcacode2": "NER004005",
+    "phase1": 464713,
+    "phase2": 96564,
+    "phase35": 42247
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Madarounfa",
+    "rowcacode2": "NER004006",
+    "phase1": 429327,
+    "phase2": 67244,
+    "phase35": 20690
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Mayahi",
+    "rowcacode2": "NER004007",
+    "phase1": 520095,
+    "phase2": 70630,
+    "phase35": 51367
+  },
+  {
+    "country": "Niger",
+    "adm1": "Maradi",
+    "rowcacode1": "NER004",
+    "adm2": "Tessaoua",
+    "rowcacode2": "NER004008",
+    "phase1": 469623,
+    "phase2": 83224,
+    "phase35": 41612
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Abala",
+    "rowcacode2": "NER006001",
+    "phase1": 131356,
+    "phase2": 31592,
+    "phase35": 3325
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Fillingue",
+    "rowcacode2": "NER006005",
+    "phase1": 279238,
+    "phase2": 70693,
+    "phase35": 3535
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Banibangou",
+    "rowcacode2": "NER006003",
+    "phase1": 57863,
+    "phase2": 16973,
+    "phase35": 2315
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Ouallam",
+    "rowcacode2": "NER006008",
+    "phase1": 322594,
+    "phase2": 82716,
+    "phase35": 8272
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Tillaberi",
+    "rowcacode2": "NER006012",
+    "phase1": 166358,
+    "phase2": 27400,
+    "phase35": 1957
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Tera",
+    "rowcacode2": "NER006011",
+    "phase1": 329323,
+    "phase2": 58116,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Bankilare",
+    "rowcacode2": "NER006004",
+    "phase1": 84133,
+    "phase2": 12718,
+    "phase35": 978
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Gothey",
+    "rowcacode2": "NER006006",
+    "phase1": 236108,
+    "phase2": 41666,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Say",
+    "rowcacode2": "NER006009",
+    "phase1": 180124,
+    "phase2": 22263,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Torodi",
+    "rowcacode2": "NER006013",
+    "phase1": 166248,
+    "phase2": 44192,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Kollo",
+    "rowcacode2": "NER006007",
+    "phase1": 455870,
+    "phase2": 80448,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Balleyara",
+    "rowcacode2": "",
+    "phase1": 96298,
+    "phase2": 25926,
+    "phase35": 1235
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tillabery",
+    "rowcacode1": "NER006",
+    "adm2": "Ayorou",
+    "rowcacode2": "NER006002",
+    "phase1": 51919,
+    "phase2": 13144,
+    "phase35": 657
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Abalak",
+    "rowcacode2": "NER005001",
+    "phase1": 227425,
+    "phase2": 44304,
+    "phase35": 23629
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Tchinta",
+    "rowcacode2": "NER005011",
+    "phase1": 140444,
+    "phase2": 18391,
+    "phase35": 8360
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Tassara",
+    "rowcacode2": "NER005010",
+    "phase1": 24802,
+    "phase2": 2818,
+    "phase35": 564
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Tillia",
+    "rowcacode2": "NER005012",
+    "phase1": 36848,
+    "phase2": 6740,
+    "phase35": 1348
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Tahoua",
+    "rowcacode2": "NER005009",
+    "phase1": 149577,
+    "phase2": 299153,
+    "phase35": 49859
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Keita",
+    "rowcacode2": "NER005006",
+    "phase1": 326311,
+    "phase2": 42731,
+    "phase35": 19423
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Illela",
+    "rowcacode2": "NER005005",
+    "phase1": 321171,
+    "phase2": 65782,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Bouza",
+    "rowcacode2": "NER005004",
+    "phase1": 436245,
+    "phase2": 76984,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Bagaroua",
+    "rowcacode2": "NER005002",
+    "phase1": 67480,
+    "phase2": 15829,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Madaoua",
+    "rowcacode2": "NER005007",
+    "phase1": 540655,
+    "phase2": 88014,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Malbaza",
+    "rowcacode2": "NER005008",
+    "phase1": 227649,
+    "phase2": 40173,
+    "phase35": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "Tahoua",
+    "rowcacode1": "NER005",
+    "adm2": "Konni",
+    "rowcacode2": "NER005003",
+    "phase1": 306481,
+    "phase2": 54085,
+    "phase35": 0
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Dakar",
+    "rowcacode1": "SEN001",
+    "adm2": "Rufisque",
+    "rowcacode2": "SEN001004",
+    "phase1": 458445,
+    "phase2": 57306,
+    "phase35": 5210
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Diourbel",
+    "rowcacode1": "SEN002",
+    "adm2": "Bambey",
+    "rowcacode2": "SEN002001",
+    "phase1": 225995,
+    "phase2": 85942,
+    "phase35": 6366
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Diourbel",
+    "rowcacode1": "SEN002",
+    "adm2": "Diourbel",
+    "rowcacode2": "SEN002002",
+    "phase1": 216658,
+    "phase2": 65567,
+    "phase35": 2851
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Diourbel",
+    "rowcacode1": "SEN002",
+    "adm2": "Mbacke",
+    "rowcacode2": "SEN002003",
+    "phase1": 810335,
+    "phase2": 167996,
+    "phase35": 9882
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Fatick",
+    "rowcacode1": "SEN003",
+    "adm2": "Fatick",
+    "rowcacode2": "SEN003001",
+    "phase1": 296601,
+    "phase2": 61490,
+    "phase35": 3617
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Fatick",
+    "rowcacode1": "SEN003",
+    "adm2": "Gossas",
+    "rowcacode2": "SEN003003",
+    "phase1": 82665,
+    "phase2": 18370,
+    "phase35": 1021
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Fatick",
+    "rowcacode1": "SEN003",
+    "adm2": "Foundioungne",
+    "rowcacode2": "SEN00302",
+    "phase1": 247294,
+    "phase2": 47671,
+    "phase35": 2979
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaffrine",
+    "rowcacode1": "SEN004",
+    "adm2": "Mbirkilane",
+    "rowcacode2": "SEN004001",
+    "phase1": 96859,
+    "phase2": 10883,
+    "phase35": 1088
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaffrine",
+    "rowcacode1": "SEN004",
+    "adm2": "Kaffrine",
+    "rowcacode2": "SEN004002",
+    "phase1": 205432,
+    "phase2": 15631,
+    "phase35": 2233
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaffrine",
+    "rowcacode1": "SEN004",
+    "adm2": "Koungheul",
+    "rowcacode2": "SEN004003",
+    "phase1": 165187,
+    "phase2": 7029,
+    "phase35": 3515
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaffrine",
+    "rowcacode1": "SEN004",
+    "adm2": "Malem Hoddar",
+    "rowcacode2": "SEN004005",
+    "phase1": 98729,
+    "phase2": 2036,
+    "phase35": 1018
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaolack",
+    "rowcacode1": "SEN005",
+    "adm2": "Nioro",
+    "rowcacode2": "SEN005001",
+    "phase1": 352940,
+    "phase2": 22770,
+    "phase35": 3795
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaolack",
+    "rowcacode1": "SEN005",
+    "adm2": "Kaolack",
+    "rowcacode2": "SEN005002",
+    "phase1": 488501,
+    "phase2": 25984,
+    "phase35": 5197
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kaolack",
+    "rowcacode1": "SEN005",
+    "adm2": "Guinguineo",
+    "rowcacode2": "SEN005003",
+    "phase1": 117571,
+    "phase2": 3674,
+    "phase35": 1225
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kedougou",
+    "rowcacode1": "SEN006",
+    "adm2": "Kedougou",
+    "rowcacode2": "SEN006001",
+    "phase1": 71231,
+    "phase2": 9218,
+    "phase35": 3352
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kedougou",
+    "rowcacode1": "SEN006",
+    "adm2": "Salemata",
+    "rowcacode2": "SEN006002",
+    "phase1": 16518,
+    "phase2": 5899,
+    "phase35": 1180
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kedougou",
+    "rowcacode1": "SEN006",
+    "adm2": "Saraya",
+    "rowcacode2": "SEN006003",
+    "phase1": 35187,
+    "phase2": 16240,
+    "phase35": 2707
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kolda",
+    "rowcacode1": "SEN007",
+    "adm2": "Kolda",
+    "rowcacode2": "SEN007001",
+    "phase1": 222133,
+    "phase2": 26133,
+    "phase35": 13067
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kolda",
+    "rowcacode1": "SEN007",
+    "adm2": "MYF",
+    "rowcacode2": "SEN007002",
+    "phase1": 121759,
+    "phase2": 22005,
+    "phase35": 2934
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Kolda",
+    "rowcacode1": "SEN007",
+    "adm2": "Velingara",
+    "rowcacode2": "SEN007003",
+    "phase1": 257213,
+    "phase2": 29565,
+    "phase35": 8869
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowcacode1": "SEN008",
+    "adm2": "Kebemer",
+    "rowcacode2": "SEN008001",
+    "phase1": "240995,92",
+    "phase2": "27385,9",
+    "phase35": "5477,18"
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowcacode1": "SEN008",
+    "adm2": "Louga",
+    "rowcacode2": "SEN008002",
+    "phase1": "351102,33",
+    "phase2": "39449,7",
+    "phase35": "3944,97"
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowcacode1": "SEN008",
+    "adm2": "Linguere",
+    "rowcacode2": "SEN008003",
+    "phase1": "217339,9",
+    "phase2": "25569,4",
+    "phase35": "12784,7"
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowcacode1": "SEN009",
+    "adm2": "Kanel",
+    "rowcacode2": "SEN009001",
+    "phase1": 214724,
+    "phase2": 30314,
+    "phase35": 7578
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowcacode1": "SEN009",
+    "adm2": "Matam",
+    "rowcacode2": "SEN009002",
+    "phase1": 203845,
+    "phase2": 58241,
+    "phase35": 29121
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowcacode1": "SEN009",
+    "adm2": "Ranerou",
+    "rowcacode2": "SEN009003",
+    "phase1": 39843,
+    "phase2": 10916,
+    "phase35": 3821
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Saint Louis",
+    "rowcacode1": "SEN010",
+    "adm2": "Saint Louis",
+    "rowcacode2": "SEN010001",
+    "phase1": 287379,
+    "phase2": 21866,
+    "phase35": 3124
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Saint Louis",
+    "rowcacode1": "SEN010",
+    "adm2": "Dagana",
+    "rowcacode2": "SEN010002",
+    "phase1": 226624,
+    "phase2": 25463,
+    "phase35": 2546
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Saint Louis",
+    "rowcacode1": "SEN010",
+    "adm2": "Podor",
+    "rowcacode2": "SEN010003",
+    "phase1": 292949,
+    "phase2": 78120,
+    "phase35": 19530
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Sedhiou",
+    "rowcacode1": "SEN011",
+    "adm2": "Bounkiling",
+    "rowcacode2": "SEN011001",
+    "phase1": 138357,
+    "phase2": 15546,
+    "phase35": 1555
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Sedhiou",
+    "rowcacode1": "SEN011",
+    "adm2": "Goudomp",
+    "rowcacode2": "SEN011002",
+    "phase1": 98352,
+    "phase2": 60012,
+    "phase35": 8335
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Sedhiou",
+    "rowcacode1": "SEN011",
+    "adm2": "Sedhiou",
+    "rowcacode2": "SEN011003",
+    "phase1": 138986,
+    "phase2": 19393,
+    "phase35": 3232
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Tambacounda",
+    "rowcacode1": "SEN012",
+    "adm2": "Bakel",
+    "rowcacode2": "SEN012001",
+    "phase1": 128044,
+    "phase2": 17867,
+    "phase35": 2978
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Tambacounda",
+    "rowcacode1": "SEN012",
+    "adm2": "Tambacounda",
+    "rowcacode2": "SEN012004",
+    "phase1": 243770,
+    "phase2": 64150,
+    "phase35": 12830
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Tambacounda",
+    "rowcacode1": "SEN012",
+    "adm2": "Goudiry",
+    "rowcacode2": "SEN012002",
+    "phase1": 86194,
+    "phase2": 24627,
+    "phase35": 12313
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Tambacounda",
+    "rowcacode1": "SEN012",
+    "adm2": "Koumpentoum",
+    "rowcacode2": "SEN012003",
+    "phase1": 93637,
+    "phase2": 27540,
+    "phase35": 16524
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Thies",
+    "rowcacode1": "SEN013",
+    "adm2": "Mbour",
+    "rowcacode2": "SEN013001",
+    "phase1": 593410,
+    "phase2": 105966,
+    "phase35": 7064
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Thies",
+    "rowcacode1": "SEN013",
+    "adm2": "Thies",
+    "rowcacode2": "SEN013002",
+    "phase1": 634785,
+    "phase2": 63479,
+    "phase35": 7053
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Thies",
+    "rowcacode1": "SEN013",
+    "adm2": "Tivaouane",
+    "rowcacode2": "SEN013003",
+    "phase1": 425033,
+    "phase2": 47757,
+    "phase35": 4776
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Ziginchor",
+    "rowcacode1": "SEN014",
+    "adm2": "Bignona",
+    "rowcacode2": "SEN014001",
+    "phase1": 217375,
+    "phase2": 37571,
+    "phase35": 13418
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Ziginchor",
+    "rowcacode1": "SEN014",
+    "adm2": "Oussouye",
+    "rowcacode2": "SEN014002",
+    "phase1": 48790,
+    "phase2": 2054,
+    "phase35": 514
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Ziginchor",
+    "rowcacode1": "SEN014",
+    "adm2": "Ziguinchor",
+    "rowcacode2": "SEN014003",
+    "phase1": 218959,
+    "phase2": 39571,
+    "phase35": 5276
+  }
+]

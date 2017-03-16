@@ -1,0 +1,554 @@
+[
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046003",
+    "adm2": "Kossi",
+    "phase": "phase 1",
+    "valeur": 359161
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046003",
+    "adm2": "Kossi",
+    "phase": "phase 2",
+    "valeur": 3665
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046003",
+    "adm2": "Kossi",
+    "phase": "phase 3",
+    "valeur": 3665
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046004",
+    "adm2": "Mouhoun",
+    "phase": "phase 1",
+    "valeur": 391113
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046004",
+    "adm2": "Mouhoun",
+    "phase": "phase 2",
+    "valeur": 3991
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046004",
+    "adm2": "Mouhoun",
+    "phase": "phase 3",
+    "valeur": 3991
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046006",
+    "adm2": "Sourou",
+    "phase": "phase 1",
+    "valeur": 254819
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046006",
+    "adm2": "Sourou",
+    "phase": "phase 2",
+    "valeur": 28631
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046006",
+    "adm2": "Sourou",
+    "phase": "phase 3",
+    "valeur": 2863
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046001",
+    "adm2": "Bale",
+    "phase": "phase 1",
+    "valeur": 275544
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046001",
+    "adm2": "Bale",
+    "phase": "phase 2",
+    "valeur": 11481
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046001",
+    "adm2": "Bale",
+    "phase": "phase 3",
+    "valeur": 0
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046002",
+    "adm2": "Banwa",
+    "phase": "phase 1",
+    "valeur": 342012
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046002",
+    "adm2": "Banwa",
+    "phase": "phase 2",
+    "valeur": 14400
+  },
+  {
+    "country": "Burkina Faso",
+    "adm1": "MOUHOUN",
+    "rowca2": "BFA046002",
+    "adm2": "Banwa",
+    "phase": "phase 3",
+    "valeur": 3600
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002004",
+    "adm2": "Kangaba",
+    "phase": "phase 1",
+    "valeur": 105207
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002004",
+    "adm2": "Kangaba",
+    "phase": "phase 2",
+    "valeur": 20281
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002004",
+    "adm2": "Kangaba",
+    "phase": "phase 3",
+    "valeur": 1268
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002005",
+    "adm2": "Kati",
+    "phase": "phase 1",
+    "valeur": 978428
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002005",
+    "adm2": "Kati",
+    "phase": "phase 2",
+    "valeur": 217428
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002005",
+    "adm2": "Kati",
+    "phase": "phase 3",
+    "valeur": 12079
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002006",
+    "adm2": "Kolokani",
+    "phase": "phase 1",
+    "valeur": 240703
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002006",
+    "adm2": "Kolokani",
+    "phase": "phase 2",
+    "valeur": 46966
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002006",
+    "adm2": "Kolokani",
+    "phase": "phase 3",
+    "valeur": 5871
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002007",
+    "adm2": "Nara",
+    "phase": "phase 1",
+    "valeur": 244330
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002007",
+    "adm2": "Nara",
+    "phase": "phase 2",
+    "valeur": 54974
+  },
+  {
+    "country": "Mali",
+    "adm1": "KOULIKORO",
+    "rowca2": "MLI002007",
+    "adm2": "Nara",
+    "phase": "phase 3",
+    "valeur": 6108
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004003",
+    "adm2": "Dakoro",
+    "phase": "phase 1",
+    "valeur": 643072
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004003",
+    "adm2": "Dakoro",
+    "phase": "phase 2",
+    "valeur": 114834
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004003",
+    "adm2": "Dakoro",
+    "phase": "phase 3",
+    "valeur": 7656
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004002",
+    "adm2": "Bermo",
+    "phase": "phase 1",
+    "valeur": 59036
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004002",
+    "adm2": "Bermo",
+    "phase": "phase 2",
+    "valeur": 4444
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004002",
+    "adm2": "Bermo",
+    "phase": "phase 3",
+    "valeur": 0
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004008",
+    "adm2": "Tessaoua",
+    "phase": "phase 1",
+    "valeur": 507411
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004008",
+    "adm2": "Tessaoua",
+    "phase": "phase 2",
+    "valeur": 106494
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004008",
+    "adm2": "Tessaoua",
+    "phase": "phase 3",
+    "valeur": 12529
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004007",
+    "adm2": "Mayahi",
+    "phase": "phase 1",
+    "valeur": 500705
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004007",
+    "adm2": "Mayahi",
+    "phase": "phase 2",
+    "valeur": 135326
+  },
+  {
+    "country": "Niger",
+    "adm1": "MARADI",
+    "rowca2": "NER004007",
+    "adm2": "Mayahi",
+    "phase": "phase 3",
+    "valeur": 40598
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002001",
+    "adm2": "Bosso",
+    "phase": "phase 1",
+    "valeur": 35546
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002001",
+    "adm2": "Bosso",
+    "phase": "phase 2",
+    "valeur": 31991
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002001",
+    "adm2": "Bosso",
+    "phase": "phase 3",
+    "valeur": 21327
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002002",
+    "adm2": "Diffa",
+    "phase": "phase 1",
+    "valeur": 81995
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002002",
+    "adm2": "Diffa",
+    "phase": "phase 2",
+    "valeur": 25770
+  },
+  {
+    "country": "Niger",
+    "adm1": "DIFFA",
+    "rowca2": "NER002002",
+    "adm2": "Diffa",
+    "phase": "phase 3",
+    "valeur": 9371
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Dakar",
+    "rowca2": "SEN001004",
+    "adm2": "Rufisque",
+    "phase": "phase 1",
+    "valeur": 482756
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Dakar",
+    "rowca2": "SEN001004",
+    "adm2": "Rufisque",
+    "phase": "phase 2",
+    "valeur": 53640
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Dakar",
+    "rowca2": "SEN001004",
+    "adm2": "Rufisque",
+    "phase": "phase 3",
+    "valeur": 0
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009002",
+    "adm2": "Matam",
+    "phase": "phase 1",
+    "valeur": 235354
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009002",
+    "adm2": "Matam",
+    "phase": "phase 2",
+    "valeur": 55018
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009002",
+    "adm2": "Matam",
+    "phase": "phase 3",
+    "valeur": 15283
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009003",
+    "adm2": "Ranerou",
+    "phase": "phase 1",
+    "valeur": 43724
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009003",
+    "adm2": "Ranerou",
+    "phase": "phase 2",
+    "valeur": 11506
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009003",
+    "adm2": "Ranerou",
+    "phase": "phase 3",
+    "valeur": 2301
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009001",
+    "adm2": "Kanel",
+    "phase": "phase 1",
+    "valeur": 181912
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009001",
+    "adm2": "Kanel",
+    "phase": "phase 2",
+    "valeur": 66879
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Matam",
+    "rowca2": "SEN009001",
+    "adm2": "Kanel",
+    "phase": "phase 3",
+    "valeur": 18726
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowca2": "SEN008003",
+    "adm2": "Louga",
+    "phase": "phase 1",
+    "valeur": 316383
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowca2": "SEN008003",
+    "adm2": "Louga",
+    "phase": "phase 2",
+    "valeur": 68955
+  },
+  {
+    "country": "Senegal",
+    "adm1": "Louga",
+    "rowca2": "SEN008003",
+    "adm2": "Louga",
+    "phase": "phase 3",
+    "valeur": 20281
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008002",
+    "adm2": "Dodje",
+    "phase": "phase 1",
+    "valeur": 129843
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008002",
+    "adm2": "Dodje",
+    "phase": "phase 2",
+    "valeur": 11291
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008002",
+    "adm2": "Dodje",
+    "phase": "phase 3",
+    "valeur": 0
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008003",
+    "adm2": "Gueni",
+    "phase": "phase 1",
+    "valeur": 102561
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008003",
+    "adm2": "Gueni",
+    "phase": "phase 2",
+    "valeur": 18314
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008003",
+    "adm2": "Gueni",
+    "phase": "phase 3",
+    "valeur": 1221
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008004",
+    "adm2": "Ngourgoussou",
+    "phase": "phase 1",
+    "valeur": 175303
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008004",
+    "adm2": "Ngourgoussou",
+    "phase": "phase 2",
+    "valeur": 31681
+  },
+  {
+    "country": "Tchad",
+    "adm1": "Logone Occidental",
+    "rowca2": "TCD008004",
+    "adm2": "Ngourgoussou",
+    "phase": "phase 3",
+    "valeur": 4224
+  }
+]
