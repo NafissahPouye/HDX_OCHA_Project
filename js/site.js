@@ -24,7 +24,7 @@ function generateringComponent(vardata, vargeodata){
   // carte
 
     var chCarteDim = cf.dimension(function (d) { return d.rowcacode2}) ;
-    var chCarteGroupe = chCarteDim.group().reduceSum( function (d) { return d.phase35}) ;
+    var chCarteGroupe = chCarteDim.group().reduceSum( function (d) { return d.phase1}) ;
 
     // function graphePerLocation(code) {
     //   chCarteDim.filter(code);

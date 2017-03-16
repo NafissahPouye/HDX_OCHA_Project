@@ -1,6 +1,6 @@
 function dashboard(id, fData){
-    var barColor = "#00FF40";
-    function segColor(c){ return {Phase1:"#00FF40", Phase2:'yellow',Phase3_to_5:"#FF4000"}[c]; }
+    var barColor = '#A8E4A8';
+    function segColor(c){ return {Phase1:'#A8E4A8', Phase2:'#F9E43C',Phase3_to_5:'#E4771F'}[c]; }
 
     // compute total for each state.
     fData.forEach(function(d){d.total=d.freq.Phase1+d.freq.Phase2+d.freq.Phase3_to_5;});
