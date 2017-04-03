@@ -1,0 +1,434 @@
+[
+  {
+    "date": 2014,
+    "ISO3": "BFA",
+    "country": "Burkina Faso",
+    "phase1": 0,
+    "phase2": 3278950,
+    "phase3to5": 0,
+    "poject_requirement": 261832
+  },
+  {
+    "date": 2014,
+    "ISO3": "CPV",
+    "country": "Cape Verde",
+    "phase1": 0,
+    "phase2": 66651,
+    "phase3to5": 48895,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "CIV",
+    "country": "Ivory Coast",
+    "phase1": 0,
+    "phase2": "413 539",
+    "phase3to5": "82 167",
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "GMB",
+    "country": "Gambia",
+    "phase1": 0,
+    "phase2": 3629716,
+    "phase3to5": 46787,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "GHA",
+    "country": "Ghana",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "GIN",
+    "country": "Republic\n of Guinea",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "GNB",
+    "country": "Republic of\n Bissau Guinea",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "LBR",
+    "country": "Liberia",
+    "phase1": 0,
+    "phase2": 2175264,
+    "phase3to5": 1534261,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "MLI",
+    "country": "Mali",
+    "phase1": 0,
+    "phase2": 592701,
+    "phase3to5": 30753,
+    "poject_requirement": 500118
+  },
+  {
+    "date": 2014,
+    "ISO3": "MRT",
+    "country": "Mauritania",
+    "phase1": 0,
+    "phase2": 3945107,
+    "phase3to5": 1395463,
+    "poject_requirement": 105700
+  },
+  {
+    "date": 2014,
+    "ISO3": "NER",
+    "country": "Niger",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 1453100
+  },
+  {
+    "date": 2014,
+    "ISO3": "NGR",
+    "country": "Nigeria",
+    "phase1": 0,
+    "phase2": 2703913,
+    "phase3to5": 617802,
+    "poject_requirement": 4207963
+  },
+  {
+    "date": 2014,
+    "ISO3": "SEN",
+    "country": "Senegal",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 6528485
+  },
+  {
+    "date": 2014,
+    "ISO3": "SLE",
+    "country": "Sierra Leone",
+    "phase1": 0,
+    "phase2": 2184721,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2014,
+    "ISO3": "TCD",
+    "country": "Chad",
+    "phase1": 0,
+    "phase2": 537474,
+    "phase3to5": 50262,
+    "poject_requirement": 700000
+  },
+  {
+    "date": 2015,
+    "ISO3": "TGO",
+    "country": "Togo",
+    "phase1": 8819971,
+    "phase2": 1703061,
+    "phase3to5": 114998,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "BFA",
+    "country": "Burkina Faso",
+    "phase1": 17170810,
+    "phase2": 1639612,
+    "phase3to5": 125590,
+    "poject_requirement": 226236
+  },
+  {
+    "date": 2015,
+    "ISO3": "CPV",
+    "country": "Cape Verde",
+    "phase1": 450566,
+    "phase2": 62540,
+    "phase3to5": 11727,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "CIV",
+    "country": "Ivory Coast",
+    "phase1": 14870250,
+    "phase2": 2022926,
+    "phase3to5": 218232,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "GMB",
+    "country": "Gambia",
+    "phase1": 1071614,
+    "phase2": 373219,
+    "phase3to5": 53600,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "GHA",
+    "country": "Ghana",
+    "phase1": 23514818,
+    "phase2": 4724055,
+    "phase3to5": 333486,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "GIN",
+    "country": "Republic\n of Guinea",
+    "phase1": 7608293,
+    "phase2": 1312314,
+    "phase3to5": 40501,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "GNB",
+    "country": "Republic of\n Bissau Guinea",
+    "phase1": 1079428,
+    "phase2": 72141,
+    "phase3to5": 2910,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "LBR",
+    "country": "Liberia",
+    "phase1": 2826344,
+    "phase2": 156208,
+    "phase3to5": 17094,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "MLI",
+    "country": "Mali",
+    "phase1": 12759305,
+    "phase2": 1759695,
+    "phase3to5": 115904,
+    "poject_requirement": 1150145
+  },
+  {
+    "date": 2015,
+    "ISO3": "MRT",
+    "country": "Mauritania",
+    "phase1": 2972645,
+    "phase2": 625939,
+    "phase3to5": 149048,
+    "poject_requirement": 528000
+  },
+  {
+    "date": 2015,
+    "ISO3": "NER",
+    "country": "Niger",
+    "phase1": 13683943,
+    "phase2": 3550882,
+    "phase3to5": 479812,
+    "poject_requirement": 2045250
+  },
+  {
+    "date": 2015,
+    "ISO3": "NGR",
+    "country": "Nigeria",
+    "phase1": 33454699,
+    "phase2": 9831570,
+    "phase3to5": 5260024,
+    "poject_requirement": 3210000
+  },
+  {
+    "date": 2015,
+    "ISO3": "SEN",
+    "country": "Senegal",
+    "phase1": 9855611,
+    "phase2": 1558116,
+    "phase3to5": 30914,
+    "poject_requirement": 2015242
+  },
+  {
+    "date": 2015,
+    "ISO3": "SLE",
+    "country": "Sierra Leone",
+    "phase1": 4357011,
+    "phase2": 1570667,
+    "phase3to5": 420678,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2015,
+    "ISO3": "TCD",
+    "country": "Chad",
+    "phase1": 10073058,
+    "phase2": 2365813,
+    "phase3to5": 461120,
+    "poject_requirement": 702600
+  },
+  {
+    "date": 2015,
+    "ISO3": "TGO",
+    "country": "Togo",
+    "phase1": 4249976,
+    "phase2": 1139886,
+    "phase3to5": 65621,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "BFA",
+    "country": "Burkina Faso",
+    "phase1": 17347399,
+    "phase2": 56640515,
+    "phase3to5": 261832,
+    "poject_requirement": 229927965
+  },
+  {
+    "date": 2016,
+    "ISO3": "CPV",
+    "country": "Cape Verde",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "CIV",
+    "country": "Ivory Coast",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "GMB",
+    "country": "Gambia",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 206875000
+  },
+  {
+    "date": 2016,
+    "ISO3": "GHA",
+    "country": "Ghana",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "GIN",
+    "country": "Republic\n of Guinea",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "GNB",
+    "country": "Republic of\n Bissau Guinea",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "LBR",
+    "country": "Liberia",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "MLI",
+    "country": "Mali",
+    "phase1": 16247365,
+    "phase2": 1855061,
+    "phase3to5": 423247,
+    "poject_requirement": 4201181869
+  },
+  {
+    "date": 2016,
+    "ISO3": "MRT",
+    "country": "Mauritania",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 1852411192
+  },
+  {
+    "date": 2016,
+    "ISO3": "NER",
+    "country": "Niger",
+    "phase1": 13318004,
+    "phase2": 3488001,
+    "phase3to5": 677554,
+    "poject_requirement": 1453100
+  },
+  {
+    "date": 2016,
+    "ISO3": "NGR",
+    "country": "Nigeria",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 4207963
+  },
+  {
+    "date": 2016,
+    "ISO3": "SEN",
+    "country": "Senegal",
+    "phase1": 56640515,
+    "phase2": 3488001,
+    "phase3to5": 265901,
+    "poject_requirement": 63619100
+  },
+  {
+    "date": 2016,
+    "ISO3": "SLE",
+    "country": "Sierra Leone",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  },
+  {
+    "date": 2016,
+    "ISO3": "TCD",
+    "country": "Chad",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 852888029
+  },
+  {
+    "date": 2016,
+    "ISO3": "TGO",
+    "country": "Togo",
+    "phase1": 0,
+    "phase2": 0,
+    "phase3to5": 0,
+    "poject_requirement": 0
+  }
+]

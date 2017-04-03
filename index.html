@@ -14,6 +14,7 @@
         <script src="js/dc.min.js"></script>
         <script src="js/leaflet.js"></script>
         <script src="js/dc.leaflet.js"></script>
+        <script src="js/site.js"></script>
       </head>
       <body>
         <div class="container-fluid" id='main-container'>
@@ -26,7 +27,7 @@
               </div>
               <div id="header" class="row">
                 <div class="col-md-8">
-                  <p> This dashboard shows the food insecurity trends in Sahel, classified by phases, and also the projects lead as response.
+                  <p> This visualisation highlights the food insecurity trends in Sahel, classified by phases, and also the projects lead as response.
                     </p>
               </div>
               <div class="col-md-1">
@@ -36,50 +37,31 @@
                   <span class="filter-count "></span> selected out of <span class="total-count "></span> records.
               </div>
             </div>
-            <div class="row" >
+            <!-- <div class="row" >
               <div class="col-md-12" id="dashboard">
               <script src="data/sahel.js"> </script>
                 <script src="js/code.js"> </script>
               </div>
-            </div>
-            <div class="row">
-              <div class="col-md-6" >
+            </div> -->
+                <div class="col-md-6" >
                 <div class="row">
-                  <div class="col-md-12" id="phase">
+                  <div class="col-md-12" id="CompositeChart">
                   </div>
                 </div>
-                <div class="row">
-                  <div class="col-md-12" id="trend">
-                    <!-- <table border="1" cellpadding="5" cellspacing="5" style="font-weight:bold" height="230" width="450">
-                      <tr>
-                        <td>
-                          Requirements
-                        </td>
-                        <td>
-                          Projects
-                        </td>
-                      </tr>
-                      <tr>
-                        <td>
-                          $500,000
-                        </td>
-                        <td>
-                          13
-                        </td>
-                      </tr>
-                    </table> -->
+               <!-- <div class="row">
+                  <div class="col-md-12" id="CompositeChart">
                     <br />
                     <br />
                     <br />
                     <p style="font-weight:bold; font-size:200% ;text-align:center">
-                      Requirements : XXXX$
+                      Requirement : XXXX$
                     </p>
                     <p style="font-weight:bold; font-size:200%;text-align:center">
                       Number of projects : 17
                     </p>
 
                   </div>
-                </div>
+                </div> -->
               </div>
               <div class="col-md-6">
                 <div class="row">
@@ -91,6 +73,6 @@
             </div>
           </div>
         </div>
-        <script src="js/site3.js"></script>
+        
     </body>
     </html>
